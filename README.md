@@ -14,7 +14,6 @@ Pada proyek ini, akan dibuat business dashboard yang berisi faktor-faktor yang b
 - Berapakah tingkat persentase attrition rate pada perusahaan?
 - Bagaimana penilaian karyawan terhadap relasi kerja ?
 - Bagaimana penilaian karyawan mengenai keseimbangan kehidupan dan pekerjaan ?
-- Bagaimana hubungan pendapatan bulanan terhadap attrition rate?
 - Bagaimana attrition rate pada berbagai divisi yang ada di perusahaan ?
 
 ### Persiapan
