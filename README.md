@@ -38,6 +38,10 @@ Setup environment:
 Link Dashboard : 
 https://lookerstudio.google.com/reporting/185945bd-93f7-4579-b285-02e49f8acccb
 
+Link video penjelasan dashboard : 
+https://drive.google.com/file/d/1iKILHHexe6fpTqACBKl1uvL8JADBw8gt/view?usp=sharing
+
+
 Pada perusahaan ini, terdapat total 1291 karyawan aktif, sedangkan untuk karyawan yang resign sebanyak 179 orang. Sehingga, jika dikalkulasi, tingkat attrition karyawan sebesar 12,18%.
 Angka tersebut cukup besar dan perlu mendapat perhatian dari manajemen. 
 Oleh karenanya, perlu diketahui pula apa faktor yang mendasari hal tersebut. 
